@@ -37,3 +37,5 @@ function Calculator(operator, number1, number2) {
 
 var result = Calculator(operator, number1, number2);
 console.log(result);
+
+// I have updated the code.
